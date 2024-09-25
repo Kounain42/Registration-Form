@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 .big{
-    height: auto;
+    height: 550px;
     width: 450px;
+    background-color: aqua;
 
 }
 .container {
