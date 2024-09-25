@@ -3,7 +3,11 @@
     margin: 0px;
     box-sizing: border-box;
 }
+.big{
+    height: 700px;
+    width: 450px;
 
+}
 .container {
     height: 500px;
     width: 375px;
