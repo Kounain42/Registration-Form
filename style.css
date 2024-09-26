@@ -3,12 +3,6 @@
     margin: 0px;
     box-sizing: border-box;
 }
-.big{
-    height: fit-content;
-    width: 450px;
-    background-color: aqua;
-
-}
 .container {
     height: 500px;
     width: 375px;
@@ -16,23 +10,26 @@
     margin: auto;
     border-radius: 20px;
     margin-top: 90px;
+    
 }
 
-#h1 {
-
-    color: white;
-    height: 60px;
-    background-color: #242156;
+#h1 {color: white;
+    background-color: #04043d;
     text-align: center;
     font-size: 26px;
-    padding-top: 15px;
+    padding-top: 13px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    padding-bottom: 16px;
+
+
 }
+
+    
+
 
 div.input {
     text-align: center;
-
 }
 
 .input input {
